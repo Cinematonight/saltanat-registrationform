@@ -26,13 +26,10 @@ h1, p {
 
 p {
   margin: 0 auto;
-  margin-top: -1rem;
+  margin-top: -2rem;
+  font-size: 20px
 }
 
-
-p {
-  font-size: 20px;
-}
 
 form {
   width: 60vw;

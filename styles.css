@@ -110,7 +110,7 @@ a {
 }
 
 #bio::placeholder{
-  color: white;
+  color: rgb(170, 170, 170);
   font-family: 'Space Mono', monospace;
   
 }

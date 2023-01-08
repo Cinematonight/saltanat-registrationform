@@ -33,6 +33,9 @@ p {
 
 
 form {
+  
+  background: rgba(48, 101, 39, 0.6);
+  
   width: 60vw;
   max-width: 500px;
   min-width: 300px;

@@ -33,12 +33,12 @@ p {
 
 
 form {
-  
+
   background: rgba(16, 16, 16, 0.6);
   
   
   width: 60vw;
-  max-width: 500px;
+  max-width: 1000px;
   min-width: 300px;
   margin: 0 auto;
   padding-bottom: 2em;

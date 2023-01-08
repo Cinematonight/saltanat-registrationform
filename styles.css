@@ -36,9 +36,9 @@ p {
 form {
  
   background: rgba(16, 16, 16, 0.6);
-  background-position: 50px 150px;
  
-  padding: 0 70px 0 70px;
+ 
+  padding: 2.5rem 0.625rem;
   width: 60vw;
   max-width: 500px;
   min-width: 300px;

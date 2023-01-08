@@ -101,6 +101,7 @@ select {
     border: 1px solid white;
     background: transparent;
     font-family: 'Space Mono', monospace;
+    color: white;
  }
 
 a {
